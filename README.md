@@ -5,6 +5,8 @@ Big Data Analytics on Meteorological Data
 <p>Generating the Meteorological Data for Indian Cities</p>
 <p><a href="https://github.com/wolfdale/Hadoop-BDA/blob/master/Data_generator.py">Data Generator</a>
 </p>
+<p>MapReduce Job</p>
+</p><a href="https://github.com/wolfdale/Hadoop-BDA/tree/master/MR-Job">MR-Job</a>
 <p><h3>Usage</h3></p>
 <p> Pass The arguments as -month -start_year -end_year  </p>
 
